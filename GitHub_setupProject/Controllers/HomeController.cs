@@ -11,6 +11,8 @@ namespace GitHub_setupProject.Controllers
         public ActionResult Index()
         {
             string var = "";
+
+
             return View();
         }
 
