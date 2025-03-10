@@ -18,6 +18,7 @@ namespace GitHub_setupProject.Controllers
 
         public ActionResult About()
         {
+        string var = "";
             ViewBag.Message = "Your application description page.";
 
             return View();
