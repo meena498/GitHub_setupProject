@@ -10,7 +10,7 @@ namespace GitHub_setupProject.Controllers
     {
         public ActionResult Index()
         {
-            string var = "";
+            string var = "shubham";
               
 
             return View();
