@@ -11,6 +11,7 @@ namespace GitHub_setupProject.Controllers
         public ActionResult Index()
         {
             string var = "shubham";
+            string vr = "shubham123";
             Console.WriteLine("Hello");
 
             return View();
