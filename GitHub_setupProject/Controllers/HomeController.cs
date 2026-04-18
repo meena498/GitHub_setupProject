@@ -20,7 +20,7 @@ namespace GitHub_setupProject.Controllers
         public ActionResult About()
         {
                string var = "";
-            Console.WriteLine("hello about");
+            Console.WriteLine("hello");
 
             ViewBag.Message = "Your application description page.";
 
